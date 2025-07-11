@@ -1,0 +1,9 @@
+[productbot]
+token = 
+product_channel = 
+
+[production]
+json = '/home/bios/influence_production_chains/productbot/production_chains.json'
+
+[icons]
+icons_path = /home/bios/influence_production_chains/icons
